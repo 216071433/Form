@@ -18,10 +18,10 @@ const SplashScreen = () => {
 
       <View className='flex items-center mt-[-110]'>
         <Image
-          source={require('@/assets/images/bus.jpg')}
-          style={{ width: 400, height: 650 }}
+          source={require('@/assets/images/logo.png')}
+          style={{ width: 300, height: 550 }}
           resizeMode='contain'
-          className='ml-[-30]'
+          className=''
         />
       </View>
 
